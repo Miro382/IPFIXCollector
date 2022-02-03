@@ -1,0 +1,9 @@
+﻿Output Modes:
+0 - Automatic (Byte, Int16, Int32, Int64 or Hex if bytes > 8)
+1 - Byte, Int16, Int32 or Int64
+2 - Double
+3 - String
+4 - IPAddress
+5 - UInt16, UInt32 or UInt64
+6-9 - Reserved
+10 - Hex
